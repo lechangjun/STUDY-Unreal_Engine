@@ -1,0 +1,15 @@
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/Language_Study.deps.json
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/Language_Study.runtimeconfig.json
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/Language_Study.runtimeconfig.dev.json
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/Language_Study.dll
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/ref/Language_Study.dll
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/bin/Debug/net5.0/Language_Study.pdb
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.csprojAssemblyReference.cache
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.GeneratedMSBuildEditorConfig.editorconfig
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.AssemblyInfoInputs.cache
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.AssemblyInfo.cs
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.csproj.CoreCompileInputs.cache
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.dll
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/ref/Language_Study.dll
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.pdb
+/Users/changjoonlee/Desktop/Language_Study/Language_Study/obj/Debug/net5.0/Language_Study.genruntimeconfig.cache
