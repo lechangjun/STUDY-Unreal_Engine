@@ -83,7 +83,7 @@
 
 \
 []()
-### 동
+### 동영상
 ```json
 "dependencies": {
     "celebrate": "12.1.1",
