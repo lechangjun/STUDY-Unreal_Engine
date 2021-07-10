@@ -1,15 +1,18 @@
 // Fill out your copyright notice in the Description page of Project Settings.
-
+/*
+ C ++ Unreal ê³µë¶€
+ 
+ */
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "C_test.generated.h"
 
-UCLASS() // ¸¶Âù°¡Áö·Î ÀÖ¾î¾ß ¾ğ¸®¾ó ±¸µ¿°¡´ÉÇÔ ¸®ÇÃ·¡¼Ç ¸®ÇÃ¸®ÄÉÀÌ¼Ç 
+UCLASS() // Replication C++ && ë¦¬í”Œë˜ì…˜ ë™ì (í…ŒìŠ¤íŠ¸ë¥¼ ìˆ˜í–‰í•  ìˆ˜ ìˆëŠ” í”„ë¡œê·¸ë¨) -> í´ë˜ìŠ¤ í…œí”Œë¦¿
 class U05_CPP_API AC_test : public AActor
 {
-   //  GENERATED_BODY ÀÖ¾î¾ßµÊ ±×·¡¾ß ¾ğ¸®¾ó¿¡¼­ ±¸µ¿ÇÒ ¼ö ÀÖÀ½ 
+   //  GENERATED_BODY í´ë˜ìŠ¤ ì§€ì •ì -> ì²˜ìŒì— ìˆì–´ì•¼ë¨ ê·¸ë˜ì•¼ ì–¸ë¦¬ì–¼ì—ì„œ êµ¬ë™í•  ìˆ˜ ìˆìŒ
    GENERATED_BODY()
    
 public:   
@@ -20,9 +23,19 @@ protected:
    // Called when the game starts or when spawned
    virtual void BeginPlay() override;
 
+/*
+     ë‹¤ì´ë ‰íŠ¸X ì—ì„œ Scene.cpp -> í”„ë ˆì„
+     Scene.cpp
+     1. ì´ˆê¸°í™” 2. ì†Œë©¸ì 3. í”„ë ˆì„ ëŒê³  4.ì •ê·œí™”
+     
+     void Update()
+     { statement( êµ¬ë¬¸ ) }
+     
+*/
+    
 public:   
    // Called every frame
-   virtual void Tick(float DeltaTime) override; // ¾÷µ¥ÀÌÆ® °°Àº°Å  ´ÙÀÌ·ºÆ®¿¡¼­ (void ¾÷µ¥ÀÌÆ®) ¿Í °°Àº°Å
+   virtual void Tick(float DeltaTime) override;
 
 private:
    UPROPERTY(EditAnywhere)
