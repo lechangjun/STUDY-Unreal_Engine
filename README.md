@@ -35,34 +35,7 @@
 ## ⚙️ 완성품
 ### 
 ```json
-"dependencies": {
-		"@egjs/react-infinitegrid": "3.0.4",
-		"@material-ui/core": "^4.9.13",
-		"@types/react-redux": "^7.1.8",
-		"axios": "^0.19.2",
-		"clsx": "^1.1.0",
-	
-		"webpack": "^4.43.0"
-	},
-	"devDependencies": {
-		"@types/dotenv": "^8.2.0",
-		"@types/jest": "^24.0.0",
-		"@types/material-ui": "^0.21.7",
-		"@types/next": "^9.0.0",
-		"@types/node": "^13.13.5",
-		"@types/react": "^16.9.34",
-		"@types/react-dom": "^16.9.0",
-		"@types/styled-components": "^5.1.0",
-		"@typescript-eslint/eslint-plugin": "^2.24.0",
-		"@typescript-eslint/parser": "^2.31.0",
-		"eslint": "^6.8.0",
-		"eslint-config-airbnb-typescript": "^7.2.1",
-		"eslint-plugin-import": "^2.20.2",
-		"eslint-plugin-jsx-a11y": "^6.2.3",
-		"eslint-plugin-react": "^7.19.0",
-		"eslint-plugin-react-hooks": "^2.5.0",
-		"typescript": "^3.8.3"
-	}
+
 ```
 
 \
